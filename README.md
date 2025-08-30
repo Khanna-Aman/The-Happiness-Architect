@@ -48,20 +48,13 @@ Additional chapters include Joy Scheduling, Legacy, and Living Your Masterpiece.
 
 ---
 
-## Repository Structure
-```
-The-Happiness-Architect/
-├── README.md                # Project overview
-├── LICENSE                  # Usage license
-├── .gitignore               # Ignore temporary files
-├── CHANGELOG.md             # Version history
-├── drafts/
-│   └── The_Happiness_Architect_V_05.docx
-├── notes/
-│   └── index.md             # Chapter/section index
-└── resources/
-    └── images/              # Covers, diagrams, visuals
-```
+## Available Files
+
+- **The_Happiness_Architect_V_05.pdf** - Complete workbook (current version)
+- **README.md** - Project overview and information
+- **LICENSE** - Creative Commons license details
+- **CONTRIBUTING.md** - Guidelines for community contributions
+- **CHANGELOG.md** - Version history and updates
 
 ---
 
